@@ -33,6 +33,8 @@ export const Layout: React.FC = ({ children }) => {
           },
           { name: "keywords", content: "facebook, pixel" },
           { name: "author", content: "Zack Spellman" },
+          { name: "facebook-domain-verification", content: "jh1329x8xekfb978zvo55h2bbm6kgl"},
+          { name: "trait", content: "this is something!" }
         ]}
       >
         <html lang="en" />
